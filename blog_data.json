@@ -2,21 +2,34 @@
     {
       "id": 1,
       "title": "Vue3 高级指南",
-      "cover": "https://example.com/vue3.jpg",
+      "type": "科技",
+      "readingTime": "23s",
       "summary": "深入了解 Vue3 的核心功能。",
       "date": "2025-02-23",
       "author": "Jone",
       "tags": ["Vue", "前端"]
     },
     {
-        "id": 2,
+        "id": 1,
         "title": "Vue3 高级指南",
-        "cover": "https://example.com/vue3.jpg",
+        "type": "科技",
+        "readingTime": "23s",
+        "summary": "深入了解 Vue3 的核心功能。",
+        "date": "2025-02-23",
+        "author": "Jone",
+        "tags": ["Vue", "前端"]
+      },
+      {
+        "id": 1,
+        "title": "Vue3 高级指南",
+        "type": "科技",
+        "readingTime": "23s",
         "summary": "深入了解 Vue3 的核心功能。",
         "date": "2025-02-23",
         "author": "Jone",
         "tags": ["Vue", "前端"]
       }
+    
     
   ]
   
