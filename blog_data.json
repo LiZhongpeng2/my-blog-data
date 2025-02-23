@@ -1,48 +1,45 @@
 [
     {
       "id": 1,
-      "title": "Vue3 高级指南",
-      "type": "科技",
-      "readingTime": "23s",
-      "summary": "深入了解 Vue3 的核心功能。",
-      "date": "2025-02-23",
+      "title": "谈阅读、价值与生活",
+      "summary": "当我们谈论阅读时在说些什么",
+      "date": "2024-11-28",
       "author": "Jone",
-      "tags": ["Vue", "前端"],
+      "tags": ["阅读", "生活"],
       "content": [
-         "First programming",
-         "Second Programming",
-         "Third Programing"
+         "When we become deeply captivated by a book, a series of videos, or a blog post, what are we really engaging with at that moment? What draws us in so intensely? It isn't often just the content itself but the way it resonates with our inner world—the thoughts, feelings, and desires that lie beneath the surface. We might find ourselves absorbed in something simply because it speaks to us on a deeper, more existential level, connecting us to the questions and uncertainties that define our human experience. As Jean-Paul Sartre and Albert Camus suggested, life is often absurd, and we are left to create our own meaning in a universe that offers no inherent purpose. In such a world, our passions and fascinations can serve as a way to confront, understand, and perhaps make sense of the chaos around us.",
+         "For many of us, activities like reading and writing might not seem to offer immediate or tangible improvements to our lives. They may not provide the kinds of rewards or success that society often measures, such as wealth or fame. Yet, this raises a deeper question: What does it mean to live a "better" or "improved" life? What does a meaningful existence look like? In existentialist thought, particularly in Camus’s concept of the "absurd," life doesn’t come with a predefined blueprint for fulfillment. Instead, it is up to each of us to define our own purpose, to create meaning through our actions and choices. To truly answer these questions, we must turn inward, reflecting on our own hearts and values. Only by doing so can we begin to discern what it means to live authentically and meaningfully in an uncertain world.",
       ]
     },
     {
         "id": 2,
-        "title": "Vue3 高级指南",
-        "type": "科技",
-        "readingTime": "23s",
-        "summary": "深入了解 Vue3 的核心功能。",
-        "date": "2025-02-23",
+        "title": "超越阶级认知",
+        "summary": "人无法拥有自己认知以外的东西",
+        "date": "2024-11-30",
         "author": "Jone",
-        "tags": ["Vue", "前端"],
+        "tags": ["内卷", "阶级认知"],
         "content": [
-         "First programming",
-         "Second Programming",
-         "Third Programing"
-      ]
+         "当我们在谈论超越阶级认知这个概念时，我们就已经假设了这个过程是被动的，是不自主的，所以说"超越阶级的认知，其实是痛苦的"对大多数人来说，是正确的。",
+         "中午刚刚看完周轶君导演拍摄的纪录片《他乡童年》关于芬兰的那一集，影片中有一处让我印象深刻，被采访的芬兰家长大致的意思是说：我们并不在乎流于表面的东西，我们更关注学生能从中学到什么，对他的未来有什么好的影响，我们将用艺术和历史融入孩子们的生活，耳濡目染，这样便塑造了孩子们对美的认识。",
+         "对芬兰的小朋友们来说，对不同文化的认知，对美的定义是从小就在环境中培养起来的，很小便开始形成自己对世界独特视角的解读，最直观的便是其中的一个镜头，两个9岁的小男孩坐在镜头前，和周轶君导演侃侃而谈，谈论自己对未来的想法，相当软件工程师，警察…这绝对是经过深思熟虑的思考。",
+         "相比之下，我们的教育似乎更为关注知识的获取，而对于社会的理解，对孩子们未来的关注，我不知道现在如何，最起码我在上小学，初中时是感受不到的。结果就是，我们需要花费较多的精力去“跨越认知”（当然，这些话我只想说给农村家庭的孩子，这也仅仅是一时之感悟，不是高高在上的大道理）。往往这个过程是困难的，漫长的。因为你的生活环境，信息的蚕房效应就将我们限制在一个小的阶级圈子里无法逃离。抖音，快手等娱乐平台更是加剧了认知的固化。改变起来便是困难的。",
+         "这时，我们便可以换个角度看“卷”这个词了。我对卷的意义理解得很功利，可能不在本身能让我们获取多少知识，而更多的是在视野层面，未来发展层面的，也就是上面提到的阶层跨越层面的。我们可以去到一个更大的平台，接触更多的人等等这些会让我们脱离现有的局限，迈向一个新的台阶。",
+        ]
       },
       {
         "id": 3,
-        "title": "Vue3 高级指南",
-        "type": "科技",
-        "readingTime": "23s",
-        "summary": "深入了解 Vue3 的核心功能。",
-        "date": "2025-02-23",
+        "title": "强迫症 | Bruce Lee关于水的哲学",
+        "summary": "强迫症治疗指北",
+        "date": "2024-12-05",
         "author": "Jone",
-        "tags": ["Vue", "前端"],
+        "tags": ["强迫症", "BruceLee", "心理治疗"],
           "content": [
-         "First programming",
-         "Second Programming",
-         "Third Programing"
-      ]
+         "今天在GPT的指引下了解了“强迫症”这个词，才意识到心理疾病已经成为我无法回避的现实问题。无尽的对抗，往往并不会带来好的改变，反而让我陷入无休止的循环。当你的内心被焦虑和痛苦填满时，也许是时候去寻求专业的帮助，去看心理医生，或者尝试让自己静下来，与自己的内心和解。",
+         "这个社会荒诞之处就在于，我们似乎都太关注一些可有可无的东西，嘴上说着无所谓可实际怎样只有自己知道。当我们尝试拿精神去对抗这个物质世界的某些方面的时候，问题就出现了，毕竟，人是社会的动物，你不能抛开社会谈个人的发展。（这个道理也正逐渐把我引导成为了一个很现实的人，纯理想化的思考若是太浓烈就掉入幻想的误区了）",
+         "所以在某些事情上，若长时间未见改变，我们似乎也只能承认，我们对抗不过它。这个时候不妨尝试一种新的方式——和解。如果对抗始终不能带来突破，或许应该选择顺应。人们往往试图通过精神上的对抗去改变那些无法完全掌控的事物，然而，这种对抗反而忽略了适应所带来的深远变化。",
+         "我突然想到Bruce Lee关于水的哲学论述，在这一刻完美的诠释了“顺应”在对抗OCD时的合理性。“Empty the mind, be formless, shapeless, like water。”他强调的便是一种顺应与静心的态度。当一个人能够放下执念，清空杂念，真正与内心的焦虑和痛苦共处时，或许才能迎来持久的改变。而每一次强行对抗，往往只是让焦虑愈加深重，内心也难以获得真正的平静。",
+         "在与焦虑和强迫症的斗争中，人们常常忽视了内心的根本需求。与其一味对抗，不如学会接纳与顺应。接纳那些无法改变的部分，才能在内心找到宁静。在不变的环境中观察变化，反而能带来深刻的成长与自我转化。",
+          ]
       }
   ]
   
